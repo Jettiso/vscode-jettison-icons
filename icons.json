@@ -288,7 +288,9 @@
 		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" },
 		"_f_typst": { "iconPath": "./icons/typst.svg" },
 		"_f_signalstore": { "iconPath": "./icons/ngrx.svg" },
-		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" }
+		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" },
+		"_f_lit": { "iconPath": "./icons/lit.svg" },
+		"_f_cocos": { "iconPath": "./icons/cocos.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -993,7 +995,13 @@
 		"effects.ts": "_f_signalstore",
 		"effects.js": "_f_signalstore",
 		"effects.jsx": "_f_signalstore",
-		"effects.cjs": "_f_signalstore"
+		"effects.cjs": "_f_signalstore",
+		"lit.js": "_f_lit",
+		"lit.ts": "_f_lit",
+		"lit.cjs": "_f_lit",
+		"lit.jsx": "_f_lit",
+		".prefab": "_f_cocos",
+		".scene": "_f_cocos"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1300,7 +1308,9 @@
 		"Taskfile.dist.yml": "_f_taskfile",
 		"taskfile.dist.yml": "_f_taskfile",
 		"Taskfile.dist.yaml": "_f_taskfile",
-		"taskfile.dist.yaml": "_f_taskfile"
+		"taskfile.dist.yaml": "_f_taskfile",
+		".prefab": "_f_cocos",
+		".scene": "_f_cocos"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1415,6 +1425,7 @@
 		"cue": "_f_cue",
 		"dsc": "_f_denizen",
 		"tarkine": "_f_tarkine",
-		"typst": "_f_typst"
+		"typst": "_f_typst",
+		"lit": "_f_lit"
 	}
 }

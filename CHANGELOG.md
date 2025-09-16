@@ -1,3 +1,8 @@
+# v2.1.120 (2025-09-16)
+
+* Added support for Lit (`*.lit.{js|ts|jsx|cjs}`)
+* Added support for Cocos Creator (`.prefab`, `.scene`)
+
 # v2.1.119 (2025-05-20)
 
 * Debug icon for tarking
