@@ -1,5 +1,8 @@
 {
+	"$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
+	"name": "Jettison Modified VSC icon theme",
 	"hidesExplorerArrows": false,
+	"author": "Jettison",
 	"iconDefinitions": {
 		"_file": { "iconPath": "./icons/file.png" },
 		"_fd_default": { "iconPath": "./icons/folders/default.svg" },
