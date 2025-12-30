@@ -4,3 +4,6 @@ description = "A forked icon theme to my liking"
 version = "0.1.0"
 authors = ["Jettison"]
 schema_version = 1
+
+[icon_themes]
+"Jettison Modified VSC icon theme" = "icon_themes/icons.json"
