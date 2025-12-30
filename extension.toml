@@ -1,4 +1,4 @@
-id = "jettison-code-icons"  # Change this to something unique, like your GitHub username + theme name
+id = "jettison-code-icons"
 name = "Jettison Modified VSC icon theme"
 description = "A forked icon theme to my liking"
 version = "0.1.0"
