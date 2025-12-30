@@ -3,3 +3,4 @@ name = "Jettison Modified VSC icon theme"
 description = "A forked icon theme to my liking"
 version = "0.1.0"
 authors = ["Jettison"]
+schema_version = 1
